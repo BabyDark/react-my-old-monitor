@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-my-old-monitor/static/css/main.4da226ab.css",
+    "main.js": "/react-my-old-monitor/static/js/main.61e214ba.js",
+    "static/js/787.b3fd989f.chunk.js": "/react-my-old-monitor/static/js/787.b3fd989f.chunk.js",
+    "index.html": "/react-my-old-monitor/index.html",
+    "main.4da226ab.css.map": "/react-my-old-monitor/static/css/main.4da226ab.css.map",
+    "main.61e214ba.js.map": "/react-my-old-monitor/static/js/main.61e214ba.js.map",
+    "787.b3fd989f.chunk.js.map": "/react-my-old-monitor/static/js/787.b3fd989f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4da226ab.css",
+    "static/js/main.61e214ba.js"
+  ]
+}
