@@ -1,0 +1,14 @@
+@import url(./global.css);
+@import url(./theme.css);
+
+.half-screen {
+    padding: 15px;
+    width: 50%;
+    min-height: 100%;
+}
+
+.papy{
+    color: gray;
+    text-align: center;
+    text-decoration: underline;
+}

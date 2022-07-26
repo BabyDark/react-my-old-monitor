@@ -1,0 +1,21 @@
+.composant1 {
+    width: 100%;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+textarea {
+    margin-top: 50px;
+    width: 400px;
+    height: 300px;
+}
+
+.power{
+    background-color: rgb(255, 174, 0);
+    color: white;
+    width: 70px;
+    height: 30px;
+}
